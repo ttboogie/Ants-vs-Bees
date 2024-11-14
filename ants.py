@@ -1,4 +1,4 @@
-"""CS 61A presents Ants Vs. SomeBees."""
+"""Presents Ants Vs. SomeBees."""
 
 import random
 from ucb import main, interact, trace
